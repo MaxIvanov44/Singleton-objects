@@ -1,0 +1,20 @@
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\obj\Debug\netcoreapp3.1\Singleton objects.csprojAssemblyReference.cache
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\obj\Debug\netcoreapp3.1\staticwebassets\Singleton objects.StaticWebAssets.Manifest.cache
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\obj\Debug\netcoreapp3.1\staticwebassets\Singleton objects.StaticWebAssets.xml
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\obj\Debug\netcoreapp3.1\Singleton objects.csproj.CoreCompileInputs.cache
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\obj\Debug\netcoreapp3.1\Singleton objects.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\obj\Debug\netcoreapp3.1\Singleton objects.AssemblyInfoInputs.cache
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\obj\Debug\netcoreapp3.1\Singleton objects.AssemblyInfo.cs
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\bin\Debug\netcoreapp3.1\Singleton objects.exe
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\bin\Debug\netcoreapp3.1\Singleton objects.deps.json
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\bin\Debug\netcoreapp3.1\Singleton objects.runtimeconfig.json
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\bin\Debug\netcoreapp3.1\Singleton objects.runtimeconfig.dev.json
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\bin\Debug\netcoreapp3.1\Singleton objects.dll
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\bin\Debug\netcoreapp3.1\Singleton objects.pdb
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\obj\Debug\netcoreapp3.1\Singleton objects.RazorTargetAssemblyInfo.cache
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\obj\Debug\netcoreapp3.1\Singleton objects.dll
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\obj\Debug\netcoreapp3.1\Singleton objects.pdb
+C:\Users\ivano\source\repos\Singleton objects\Singleton objects\obj\Debug\netcoreapp3.1\Singleton objects.genruntimeconfig.cache
